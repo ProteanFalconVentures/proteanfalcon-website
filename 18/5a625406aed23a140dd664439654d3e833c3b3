@@ -1,0 +1,23 @@
+.gitignore
+  s_aee4e754c7f67a::t_8c33dbbc6a5a3f 2
+logo.svg
+  s_aee4e754c7f67a::t_204ab4d3cfae1b 8-37
+index.html
+  s_aee4e754c7f67a::t_fc5b363515c9c6 8-14,20-23,28-29,34-37,44-53,56-65,69-70,76-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "185a625406aed23a140dd664439654d3e833c3b3",
+  "prompts": {},
+  "sessions": {
+    "s_aee4e754c7f67a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9fe437ac-5a28-4740-9f99-e96761e4efe6",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "David Hodge <dave@proteanfalcon.com>"
+    }
+  }
+}
