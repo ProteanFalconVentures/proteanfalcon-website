@@ -1,0 +1,19 @@
+CNAME
+  s_aee4e754c7f67a::t_8c0390854a3521 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "b1a3e7f8af1d968fe5a6fa03d4717a4e040683c8",
+  "prompts": {},
+  "sessions": {
+    "s_aee4e754c7f67a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9fe437ac-5a28-4740-9f99-e96761e4efe6",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "David Hodge <dave@proteanfalcon.com>"
+    }
+  }
+}
